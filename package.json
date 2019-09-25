@@ -1,0 +1,24 @@
+{
+  "name": "contentful-export",
+  "version": "1.0.0",
+  "description": "You can use this project to export Contentful data to a JSON file. Contentful Export from https://github.com/contentful/contentful-export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonrundell/contentful-export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonrundell/contentful-export/issues"
+  },
+  "homepage": "https://github.com/jasonrundell/contentful-export#readme",
+  "dependencies": {
+    "contentful-export": "^7.7.0"
+  },
+  "devDependencies": {}
+}
